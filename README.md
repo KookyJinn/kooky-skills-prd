@@ -76,10 +76,7 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/prd-generator-
 **方式一：一键安装**
 下载 [`prd-generator-by-kooky-v1.2.0.skill`](https://github.com/KookyJinn/kooky-skills-prd/releases/download/prd-generator-v1.2.0/prd-generator-by-kooky-v1.2.0.skill)，在你的 AI 工具中导入（通常在"技能"、"插件"或"扩展"菜单中）。
 
-**方式二：手动安装**
-下载 `prd-generator-by-kooky/` 目录，放到你 AI 工具的技能目录中，重启即可。
-
-**方式三：命令行安装**
+**方式二：命令行安装**
 ```bash
 npx -y skills add KookyJinn/kooky-skills-prd/prd-generator-by-kooky
 ```
@@ -123,8 +120,11 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/brd-to-prd-by-
 **方式一：一键安装**
 下载 [`brd-to-prd-by-kooky-v1.0.0.skill`](https://github.com/KookyJinn/kooky-skills-prd/releases/download/brd-to-prd-v1.0.0/brd-to-prd-by-kooky-v1.0.0.skill)，在你的 AI 工具中导入。
 
-**方式二：手动安装**
-下载 `brd-to-prd-by-kooky/` 目录，放到你 AI 工具的技能目录中，重启即可。
+**方式二：命令行安装**
+```bash
+npx -y skills add KookyJinn/kooky-skills-prd/brd-to-prd-by-kooky
+```
+（需 Node.js 22+，适用于 Claude Code、Cursor 等支持 Skills 的 AI 编程工具）
 
 ### 使用方式
 
@@ -234,10 +234,7 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/prd-generator-
 **Option 1: One-Click Install**
 Download [`prd-generator-by-kooky-v1.2.0.skill`](https://github.com/KookyJinn/kooky-skills-prd/releases/download/prd-generator-v1.2.0/prd-generator-by-kooky-v1.2.0.skill) and import it into your AI tool (via "Skills", "Extensions", or "Plugins" menu).
 
-**Option 2: Manual Install**
-Download the `prd-generator-by-kooky/` directory and place it in your AI tool's skill directory. Restart to activate.
-
-**Option 3: CLI Install**
+**Option 2: CLI Install**
 ```bash
 npx -y skills add KookyJinn/kooky-skills-prd/prd-generator-by-kooky
 ```
@@ -281,8 +278,11 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/brd-to-prd-by-
 **Option 1: One-Click Install**
 Download [`brd-to-prd-by-kooky-v1.0.0.skill`](https://github.com/KookyJinn/kooky-skills-prd/releases/download/brd-to-prd-v1.0.0/brd-to-prd-by-kooky-v1.0.0.skill) and import it into your AI tool.
 
-**Option 2: Manual Install**
-Download the `brd-to-prd-by-kooky/` directory and place it in your AI tool's skill directory. Restart to activate.
+**Option 2: CLI Install**
+```bash
+npx -y skills add KookyJinn/kooky-skills-prd/brd-to-prd-by-kooky
+```
+(Requires Node.js 22+; works with skills-compatible AI coding tools like Claude Code and Cursor.)
 
 #### Usage
 

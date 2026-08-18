@@ -79,6 +79,12 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/prd-generator-
 **方式二：手动安装**
 下载 `prd-generator-by-kooky/` 目录，放到你 AI 工具的技能目录中，重启即可。
 
+**方式三：命令行安装**
+```bash
+npx -y skills add KookyJinn/kooky-skills-prd/prd-generator-by-kooky
+```
+（需 Node.js 22+，适用于 Claude Code、Cursor 等支持 Skills 的 AI 编程工具；去掉路径后缀 `prd-generator-by-kooky` 则会安装本仓库全部技能）
+
 ### 使用方式
 
 ```
@@ -234,6 +240,12 @@ Download [`prd-generator-by-kooky-v1.2.0.skill`](./releases/prd-generator-by-koo
 
 **Option 2: Manual Install**
 Download the `prd-generator-by-kooky/` directory and place it in your AI tool's skill directory. Restart to activate.
+
+**Option 3: CLI Install**
+```bash
+npx -y skills add KookyJinn/kooky-skills-prd/prd-generator-by-kooky
+```
+(Requires Node.js 22+; works with skills-compatible AI coding tools like Claude Code and Cursor. Remove the `prd-generator-by-kooky` suffix to install all skills in this repo.)
 
 #### Usage
 

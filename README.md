@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/prd-generator-
 ### 安装方式
 
 **方式一：一键安装**
-下载 [`prd-generator-by-kooky-v1.1.0.skill`](./releases/prd-generator-by-kooky-v1.1.0.skill)，在你的 AI 工具中导入（通常在"技能"、"插件"或"扩展"菜单中）。
+下载 [`prd-generator-by-kooky-v1.2.0.skill`](./releases/prd-generator-by-kooky-v1.2.0.skill)，在你的 AI 工具中导入（通常在"技能"、"插件"或"扩展"菜单中）。
 
 **方式二：手动安装**
 下载 `prd-generator-by-kooky/` 目录，放到你 AI 工具的技能目录中，重启即可。
@@ -148,6 +148,7 @@ kooky-skills-prd/
 ├── demo/                         # 在线 Demo（GitHub Pages）
 │   └── prd-generator-by-kooky.html
 ├── releases/                     # 一键安装包
+│   ├── prd-generator-by-kooky-v1.2.0.skill
 │   ├── prd-generator-by-kooky-v1.1.0.skill
 │   └── brd-to-prd-by-kooky-v1.0.0.skill
 └── README.md
@@ -229,7 +230,7 @@ https://raw.githubusercontent.com/KookyJinn/kooky-skills-prd/main/prd-generator-
 #### Installation
 
 **Option 1: One-Click Install**
-Download [`prd-generator-by-kooky-v1.1.0.skill`](./releases/prd-generator-by-kooky-v1.1.0.skill) and import it into your AI tool (via "Skills", "Extensions", or "Plugins" menu).
+Download [`prd-generator-by-kooky-v1.2.0.skill`](./releases/prd-generator-by-kooky-v1.2.0.skill) and import it into your AI tool (via "Skills", "Extensions", or "Plugins" menu).
 
 **Option 2: Manual Install**
 Download the `prd-generator-by-kooky/` directory and place it in your AI tool's skill directory. Restart to activate.
